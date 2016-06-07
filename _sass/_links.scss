@@ -1,5 +1,22 @@
 a {
   color: $link-color;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: $link-hover-color;
+  text-decoration: none;
+}
+
+
+
+
+
+
+/*a {
+  color: $link-color;
   background-image: linear-gradient(to top,
     rgba(0,0,0,0) 13%,
     rgba($link-color,.8) 13%,
@@ -23,7 +40,7 @@ a:active {
   );
   text-shadow: white 1px 0px 0px, white -1px 0px 0px;
 }
-
+*/
 // Correct issues with buttons
 button,
 .button {
