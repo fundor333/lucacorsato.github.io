@@ -11,6 +11,7 @@ ho fatto un po' di cose, ne faccio altre. Studio. Sono sopportato da moglie e fi
 
 Abbiate pazienza.
 
+<small>dal 2015 mi diverto con [opensensorsdata](http://osd.tools)</small>
 
 <small>questo sito è un fork dell'ottimo [pixyll](https://github.com/johnotander/pixyll)</small>
 
