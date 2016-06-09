@@ -4,7 +4,7 @@ email:       luca@osd.tools
 author:      luca corsato
 description: "un sito senza pretese"
 baseurl:     ""
-url:         "/"
+url:         "lucacorsato.it"
 date_format: "%b %-d, %Y"
 
 # Google services
