@@ -3,8 +3,8 @@ title:       'luca corsato'
 email:       luca@osd.tools
 author:      luca corsato
 description: "un sito senza pretese"
-baseurl:     ""
-url:         "lucacorsato.it"
+baseurl:     "/"
+url:         "http://lucacorsato.it"
 date_format: "%b %-d, %Y"
 
 # Google services
