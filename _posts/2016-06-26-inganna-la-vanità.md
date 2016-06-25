@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Inganna la vanità per attraversare il conformismo
+title:      'Inganna la vanità per attraversare il conformismo'
 date:       2016-06-26
 summary:    'Parole nuove, modelli noti. Ho l'illusione di essere contemporaneo ma do semplicemente una verniciata allo steccato di legno marcio.'
 ---
