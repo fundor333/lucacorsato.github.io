@@ -5,6 +5,8 @@ date:       2016-06-26
 summary:    'Uso parole nuove che racchiudono concetti nuovi. Ma bisogna comunicarli e si riconducono a modelli e strutture già note. Il ciclo si ripete: parole nuove, modelli noti.'
 ---
 
+[![Mihamoto Musashi](https://upload.wikimedia.org/wikipedia/commons/2/20/Musashi_ts_pic.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/20/Musashi_ts_pic.jpg)
+
 *Ciò che conosciamo non desta attenzione* recita un proverbio cinese.[^1]
 
 Uso parole nuove che racchiudono concetti nuovi. Ma bisogna comunicarli e si riconducono a modelli e strutture già note. Il ciclo si ripete: parole nuove, modelli noti. Ho l'illusione di essere contemporaneo ma do semplicemente una verniciata allo steccato di legno marcio.
@@ -35,10 +37,11 @@ Mi accorgo della valigia che pensavo piccola, solo perché la trascinavo. Elimin
 
 Non è uno status a fare la persona.
 
-Non c'è competizione: è una guerra.
+Una conoscenza superficiale è più dannosa dell'ignoranza[^2]
 
 Ciò che è, non è. Ciò che non è, è.
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/1em_I2yPpeo" frameborder="0" allowfullscreen></iframe>
 
-[^1]: per approfondire si vedano i [36 stratagemmi](https://it.wikipedia.org/wiki/Trentasei_stratagemmi)
+[^1]: per approfondire si veda i [36 stratagemmi](https://it.wikipedia.org/wiki/Trentasei_stratagemmi)
+[^2]: per approndire si vedano [Il libro dei cinque anelli](https://it.wikipedia.org/wiki/Il_libro_dei_cinque_anelli) e [Musashi](https://it.wikipedia.org/wiki/Musashi) di [Eiji Yoshikawa](https://it.wikipedia.org/wiki/Eiji_Yoshikawa)
