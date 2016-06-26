@@ -9,7 +9,7 @@ summary:    'Uso parole nuove che racchiudono concetti nuovi. Ma bisogna comunic
 
 *Ciò che conosciamo non desta attenzione* recita un proverbio cinese.[^1]
 
-Uso parole nuove che racchiudono concetti nuovi. Ma bisogna comunicarli e si riconducono a modelli e strutture già note. Il ciclo si ripete: parole nuove, modelli noti. Ho l'illusione di essere contemporaneo ma do semplicemente una verniciata allo steccato di legno marcio.
+Uso parole nuove che racchiudono concetti nuovi. Ma bisogna comunicarli e li riconduco a modelli e strutture già note. Il ciclo si ripete: parole nuove, modelli noti. Ho l'illusione di essere contemporaneo ma do semplicemente una verniciata allo steccato di legno marcio.
 
 È la vanità a spingermi verso il nuovo per l'ebbrezza di sentirmi esploratore; allo stesso tempo ho bisogno del riconoscimento per non sentirmi solo. Per sentirmi approvato.
 
