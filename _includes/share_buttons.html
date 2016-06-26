@@ -1,13 +1,25 @@
 <div class="share-page">
+
+  <hr>
   {{ site.text.share_buttons.text }}
 
   <div class="share-links">
     {% if site.share_facebook %}
-      <a class="fa fa-facebook" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="{{ site.text.share_buttons.facebook }}"></a>
+    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="{{ site.text.share_buttons.facebook }}">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
     {% endif %}
 
     {% if site.share_twitter %}
-      <a class="fa fa-twitter" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="{{ site.text.share_buttons.twitter }}"></a>
+      <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="{{ site.text.share_buttons.twitter }}">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa fa-twitter fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
     {% endif %}
 
     {% if site.share_googleplus %}
