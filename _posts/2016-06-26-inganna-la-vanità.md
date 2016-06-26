@@ -25,7 +25,7 @@ con tutte le putride vanità di questa terra!
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/X2KWW2jY50A" frameborder="0" allowfullscreen></iframe>
 
-## Inganniamo la vanità!
+## Inganniamo la vanità
 
 Lascio che la scoperta si decanti nel mio orgoglio. Attendo che si stanchi nella frustrazione di non apparire. Lo sfianco a colpi di assenza di parole. Lo addomestico nell'esercizio del dubbio.
 
