@@ -39,9 +39,10 @@ Non è uno status a fare la persona.
 
 Una conoscenza superficiale è più dannosa dell'ignoranza[^2]
 
-Ciò che è, non è. Ciò che non è, è.
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/1em_I2yPpeo" frameborder="0" allowfullscreen></iframe>
+
+<hr>
 
 [^1]: per approfondire si veda i [36 stratagemmi](https://it.wikipedia.org/wiki/Trentasei_stratagemmi)
 [^2]: per approndire si vedano [Il libro dei cinque anelli](https://it.wikipedia.org/wiki/Il_libro_dei_cinque_anelli) e [Musashi](https://it.wikipedia.org/wiki/Musashi) di [Eiji Yoshikawa](https://it.wikipedia.org/wiki/Eiji_Yoshikawa)
